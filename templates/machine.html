@@ -1,0 +1,12 @@
+<div class="list-group">
+    <a href="#" class="active list-group-item list-group-item-action">
+        所有机器
+    </a>
+    {% for machine in machines %}
+        <a href="?machine={{ machine.no }}"
+           class="list-group-item list-group-item-action
+           {% ifequal request.GET.machine machine.no %}list-group-item-primary{% endifequal %}">
+            {{ machine.no }}
+        </a>
+    {% endfor %}
+</div>

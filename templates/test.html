@@ -1,0 +1,45 @@
+<div class="card" style="height: 360px; margin: 0px 20px">
+    <div class="card-body">
+        <h5 class="card-title">{{ machine.no }}</h5>
+        <table class="table table-sm">
+            <tr>
+                <th>吸合电压</th>
+                <td>{{ volt.open|floatformat:"2" }}</td>
+                <th>释放电压</th>
+                <td>{{ volt.close|floatformat:"2" }}</td>
+            </tr>
+            <tr>
+                <th>吸合时差</th>
+                <td>{{ open_time|floatformat:"2" }}</td>
+                <th>释放时差</th>
+                <td>{{ close_time|floatformat:"2" }}</td>
+            </tr>
+        </table>
+        <table class="table table-sm">
+            <tr>
+                <th>吸合时间</th>
+                {% for t in time.open %}
+                    <td>{{ t|floatformat:"2" }}</td>
+                {% endfor %}
+            </tr>
+            <tr>
+                <th>释放时间</th>
+                {% for t in time.close %}
+                    <td>{{ t|floatformat:"2" }}</td>
+                {% endfor %}
+            </tr>
+            <tr>
+                <th>吸合电阻</th>
+                {% for t in time.open %}
+                    <td>{{ t|floatformat:"2" }}</td>
+                {% endfor %}
+            </tr>
+            <tr>
+                <th>释放电阻</th>
+                {% for t in time.open %}
+                    <td>{{ t|floatformat:"2" }}</td>
+                {% endfor %}
+            </tr>
+        </table>
+    </div>
+</div>

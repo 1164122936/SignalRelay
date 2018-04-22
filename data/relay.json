@@ -1,0 +1,992 @@
+[
+{
+    "model": "testboard.relay",
+    "pk": 1,
+    "fields": {
+        "close": 0.3497066493615728,
+        "open": 0.5000276248698452,
+        "type": 0,
+        "time_joined": "2018-04-06T07:08:40.627Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 2,
+    "fields": {
+        "close": 0.6596955023512694,
+        "open": 0.15073938146878652,
+        "type": 0,
+        "time_joined": "2018-04-06T07:08:40.645Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 3,
+    "fields": {
+        "close": 0.2236525456899472,
+        "open": 0.1899693277536738,
+        "type": 0,
+        "time_joined": "2018-04-06T07:08:40.661Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 4,
+    "fields": {
+        "close": 0.7593767238060957,
+        "open": 0.5616693251640773,
+        "type": 0,
+        "time_joined": "2018-04-06T07:08:40.678Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 5,
+    "fields": {
+        "close": 0.3271909226518538,
+        "open": 0.3402278016448087,
+        "type": 0,
+        "time_joined": "2018-04-06T07:08:40.695Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 6,
+    "fields": {
+        "close": 0.5969528973309923,
+        "open": 0.3397110230680468,
+        "type": 0,
+        "time_joined": "2018-04-06T07:08:40.711Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 7,
+    "fields": {
+        "close": 0.7605884290072548,
+        "open": 0.6190162420264395,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:02.771Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 8,
+    "fields": {
+        "close": 0.9931053380522868,
+        "open": 0.018288041346557038,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:02.796Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 9,
+    "fields": {
+        "close": 0.4932675007756562,
+        "open": 0.4684959729741892,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:02.812Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 10,
+    "fields": {
+        "close": 0.17324645585534948,
+        "open": 0.03732451733740583,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:02.830Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 11,
+    "fields": {
+        "close": 0.2666078625963548,
+        "open": 0.4733357903747566,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:02.847Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 12,
+    "fields": {
+        "close": 0.26204655769538887,
+        "open": 0.005967260694975995,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:02.864Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 13,
+    "fields": {
+        "close": 0.022862475677545846,
+        "open": 0.30005603207372256,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:10.519Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 14,
+    "fields": {
+        "close": 0.42615694836488316,
+        "open": 0.9652147655158065,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:10.541Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 15,
+    "fields": {
+        "close": 0.4272273547923823,
+        "open": 0.9201424521330912,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:10.563Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 16,
+    "fields": {
+        "close": 0.9156458412001645,
+        "open": 0.5146490654178099,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:10.584Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 17,
+    "fields": {
+        "close": 0.774952374393249,
+        "open": 0.684087254924511,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:10.601Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 18,
+    "fields": {
+        "close": 0.4836109809670077,
+        "open": 0.39774971734685216,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:10.617Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 19,
+    "fields": {
+        "close": 0.10980354006060733,
+        "open": 0.6174863905937148,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:18.864Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 20,
+    "fields": {
+        "close": 0.04003930222509822,
+        "open": 0.5741178428698813,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:18.887Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 21,
+    "fields": {
+        "close": 0.9790632597697609,
+        "open": 0.4781180694206104,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:18.904Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 22,
+    "fields": {
+        "close": 0.6729863150410389,
+        "open": 0.3541173815608253,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:18.919Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 23,
+    "fields": {
+        "close": 0.4957486952863983,
+        "open": 0.21724203033395484,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:18.934Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 24,
+    "fields": {
+        "close": 0.8923375139019166,
+        "open": 0.5505496341643198,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:18.950Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 25,
+    "fields": {
+        "close": 0.9400996672307582,
+        "open": 0.11930968818960885,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:27.399Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 26,
+    "fields": {
+        "close": 0.4641265028121807,
+        "open": 0.8370481872233752,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:27.417Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 27,
+    "fields": {
+        "close": 0.1764247000127721,
+        "open": 0.7129243764122178,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:27.429Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 28,
+    "fields": {
+        "close": 0.4606481623823585,
+        "open": 0.4452076747646223,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:27.452Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 29,
+    "fields": {
+        "close": 0.33083034304443604,
+        "open": 0.11977300708158667,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:27.480Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 30,
+    "fields": {
+        "close": 0.17129580585849347,
+        "open": 0.85251322992361,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:27.496Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 31,
+    "fields": {
+        "close": 0.5932646311778922,
+        "open": 0.8294868897883781,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:34.219Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 32,
+    "fields": {
+        "close": 0.3293734927972106,
+        "open": 0.8724424509116555,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:34.241Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 33,
+    "fields": {
+        "close": 0.13999973115408315,
+        "open": 0.8774030043731943,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:34.256Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 34,
+    "fields": {
+        "close": 0.902593183243283,
+        "open": 0.9523606964427682,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:34.271Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 35,
+    "fields": {
+        "close": 0.12126088592999518,
+        "open": 0.6748118218855815,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:34.286Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 36,
+    "fields": {
+        "close": 0.5237665123982059,
+        "open": 0.7710307709692634,
+        "type": 0,
+        "time_joined": "2018-04-06T07:09:34.300Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 37,
+    "fields": {
+        "close": 0.7650519702400154,
+        "open": 0.5737565200670419,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:06.504Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 38,
+    "fields": {
+        "close": 0.31446202841190707,
+        "open": 0.169347618463633,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:06.536Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 39,
+    "fields": {
+        "close": 0.9424639025885125,
+        "open": 0.5894148661191025,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:06.560Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 40,
+    "fields": {
+        "close": 0.3044498946233871,
+        "open": 0.595619501423619,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:06.581Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 41,
+    "fields": {
+        "close": 0.996621047765719,
+        "open": 0.7957425543829076,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:06.600Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 42,
+    "fields": {
+        "close": 0.04528925666845596,
+        "open": 0.7297904937653282,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:06.618Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 43,
+    "fields": {
+        "close": 0.19204820333016492,
+        "open": 0.9566912134405207,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:14.070Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 44,
+    "fields": {
+        "close": 0.6501190951696568,
+        "open": 0.8708070043166172,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:14.093Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 45,
+    "fields": {
+        "close": 0.3493596164706396,
+        "open": 0.2971738394619584,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:14.107Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 46,
+    "fields": {
+        "close": 0.6456694325540574,
+        "open": 0.1624959206519535,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:14.122Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 47,
+    "fields": {
+        "close": 0.1641154166656903,
+        "open": 0.5294268612597287,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:14.137Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 48,
+    "fields": {
+        "close": 0.3113673915617453,
+        "open": 0.4435550576485955,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:14.152Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 49,
+    "fields": {
+        "close": 0.9733554010736918,
+        "open": 0.7466751705190072,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:20.462Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 50,
+    "fields": {
+        "close": 0.157866134896832,
+        "open": 0.03659667571110503,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:20.478Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 51,
+    "fields": {
+        "close": 0.8094880469415304,
+        "open": 0.8807356060191271,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:20.496Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 52,
+    "fields": {
+        "close": 0.1490671648403631,
+        "open": 0.6934101067919315,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:20.510Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 53,
+    "fields": {
+        "close": 0.391538445533156,
+        "open": 0.7876587770274367,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:20.527Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 54,
+    "fields": {
+        "close": 0.853572367802683,
+        "open": 0.6450050269478282,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:20.544Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 55,
+    "fields": {
+        "close": 0.9353140075501819,
+        "open": 0.2580317906895706,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:27.638Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 56,
+    "fields": {
+        "close": 0.3427668024941599,
+        "open": 0.23032411347673498,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:27.653Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 57,
+    "fields": {
+        "close": 0.03790468052943452,
+        "open": 0.5399435186396733,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:27.672Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 58,
+    "fields": {
+        "close": 0.8282615305515864,
+        "open": 0.07673908710376887,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:27.690Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 59,
+    "fields": {
+        "close": 0.8941200141447446,
+        "open": 0.35746121181524404,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:27.707Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 60,
+    "fields": {
+        "close": 0.5070516466576621,
+        "open": 0.4317605328658848,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:27.724Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 61,
+    "fields": {
+        "close": 0.4397321635643956,
+        "open": 0.18731699844309835,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:35.167Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 62,
+    "fields": {
+        "close": 0.5249942671324614,
+        "open": 0.8444719131779294,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:35.185Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 63,
+    "fields": {
+        "close": 0.7782278629083005,
+        "open": 0.7883552371856588,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:35.200Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 64,
+    "fields": {
+        "close": 0.5293991810554879,
+        "open": 0.07321160843167362,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:35.218Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 65,
+    "fields": {
+        "close": 0.9589314755512546,
+        "open": 0.04057985125943975,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:35.234Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 66,
+    "fields": {
+        "close": 0.3264414649180849,
+        "open": 0.005823340022523271,
+        "type": 0,
+        "time_joined": "2018-04-06T07:10:35.249Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 67,
+    "fields": {
+        "close": 0.5135929555080254,
+        "open": 0.3726869345819561,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:13.227Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 68,
+    "fields": {
+        "close": 0.9253847068770669,
+        "open": 0.9864952197700922,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:13.256Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 69,
+    "fields": {
+        "close": 0.7981058620798701,
+        "open": 0.3311455049558565,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:13.272Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 70,
+    "fields": {
+        "close": 0.8190687240520219,
+        "open": 0.21606567890814987,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:13.288Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 71,
+    "fields": {
+        "close": 0.13757295440505868,
+        "open": 0.5159722930581251,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:13.303Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 72,
+    "fields": {
+        "close": 0.6301098833147275,
+        "open": 0.7966864044977165,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:13.319Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 73,
+    "fields": {
+        "close": 0.533524729355159,
+        "open": 0.19741050688875972,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:20.109Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 74,
+    "fields": {
+        "close": 0.8764607053235555,
+        "open": 0.027842839855937163,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:20.127Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 75,
+    "fields": {
+        "close": 0.5102850536184418,
+        "open": 0.6269602096138511,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:20.144Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 76,
+    "fields": {
+        "close": 0.5018572061484146,
+        "open": 0.8409867669752945,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:20.167Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 77,
+    "fields": {
+        "close": 0.33318966812249473,
+        "open": 0.5183217387743432,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:20.183Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 78,
+    "fields": {
+        "close": 0.7849624781360125,
+        "open": 0.9346620755796666,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:20.199Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 79,
+    "fields": {
+        "close": 0.03042062616572827,
+        "open": 0.10888537320735348,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:39.349Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 80,
+    "fields": {
+        "close": 0.5853477683122715,
+        "open": 0.29273410519668364,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:39.373Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 81,
+    "fields": {
+        "close": 0.7086610720757811,
+        "open": 0.4566426493719995,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:39.398Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 82,
+    "fields": {
+        "close": 0.1160782490246226,
+        "open": 0.3385790765912533,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:39.420Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 83,
+    "fields": {
+        "close": 0.28186238849460266,
+        "open": 0.7123361173406181,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:39.437Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 84,
+    "fields": {
+        "close": 0.5364189761570393,
+        "open": 0.7237718788010773,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:39.452Z",
+        "machine": "MACHINE_1700"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 85,
+    "fields": {
+        "close": 0.5878044512093823,
+        "open": 0.2026266506894271,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:47.023Z",
+        "machine": "MACHINE_1802"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 86,
+    "fields": {
+        "close": 0.5860700813954578,
+        "open": 0.20884131425907304,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:47.047Z",
+        "machine": "MACHINE_1801"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 87,
+    "fields": {
+        "close": 0.5937494558902222,
+        "open": 0.9317640195941234,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:47.064Z",
+        "machine": "MACHINE_1800"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 88,
+    "fields": {
+        "close": 0.07605189658849054,
+        "open": 0.8877902731267826,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:47.080Z",
+        "machine": "MACHINE_1702"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 89,
+    "fields": {
+        "close": 0.28200441640261753,
+        "open": 0.47822825504876243,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:47.097Z",
+        "machine": "MACHINE_1701"
+    }
+},
+{
+    "model": "testboard.relay",
+    "pk": 90,
+    "fields": {
+        "close": 0.15924400583521003,
+        "open": 0.5473525119028585,
+        "type": 0,
+        "time_joined": "2018-04-06T07:11:47.113Z",
+        "machine": "MACHINE_1700"
+    }
+}
+]

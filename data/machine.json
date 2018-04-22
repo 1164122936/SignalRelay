@@ -1,0 +1,62 @@
+[
+{
+    "model": "testboard.machine",
+    "pk": 7,
+    "fields": {
+        "no": "MACHINE_1700",
+        "type": 0,
+        "ppoi": "0.5x0.5",
+        "qr": ""
+    }
+},
+{
+    "model": "testboard.machine",
+    "pk": 8,
+    "fields": {
+        "no": "MACHINE_1701",
+        "type": 1,
+        "ppoi": "0.5x0.5",
+        "qr": ""
+    }
+},
+{
+    "model": "testboard.machine",
+    "pk": 9,
+    "fields": {
+        "no": "MACHINE_1702",
+        "type": 2,
+        "ppoi": "0.5x0.5",
+        "qr": ""
+    }
+},
+{
+    "model": "testboard.machine",
+    "pk": 10,
+    "fields": {
+        "no": "MACHINE_1800",
+        "type": 0,
+        "ppoi": "0.5x0.5",
+        "qr": ""
+    }
+},
+{
+    "model": "testboard.machine",
+    "pk": 11,
+    "fields": {
+        "no": "MACHINE_1801",
+        "type": 1,
+        "ppoi": "0.5x0.5",
+        "qr": ""
+    }
+},
+{
+    "model": "testboard.machine",
+    "pk": 12,
+    "fields": {
+        "no": "MACHINE_1802",
+        "type": 2,
+        "ppoi": "0.5x0.5",
+        "qr": ""
+    }
+}
+]
